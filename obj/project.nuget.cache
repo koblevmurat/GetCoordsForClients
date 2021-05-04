@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUqjEaPKz4ttKpDYWYVKKKXJRvHGu2zgPacS5KHnu10JoKKNP7TPS1dWZU1l5d+rzW5CxdzGjCmmjhfytXPuYg==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\.net\\sample1\\sample1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Koble\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
